@@ -1,5 +1,6 @@
-# bruteForce
-# SHA1 Brute Force method in Python with given Hash/Salt Term and a database of passwords.
+# bruteForce 
+Caio Melo
+SHA1 Brute Force method in Python with given Hash/Salt Term and a database of passwords.
 
 # How to Use
 

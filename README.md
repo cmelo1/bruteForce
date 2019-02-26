@@ -14,13 +14,13 @@
 
 
 # Solutions
-a) testing program hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
+a) hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
       Password = letmein
       
-b) medium hacker hash: 801cdea58224c921c21fd2b183ff28ffa910ce31
+b) hash: 801cdea58224c921c21fd2b183ff28ffa910ce31
       Password = vjhtrhsvdctcegth
 
-c) leet hacker hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1
+c) salt hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1
       Salt Term = Slayer
       Password = harim
 
